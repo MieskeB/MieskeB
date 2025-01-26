@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋, I'm Michel Bijnen
+
+### 🌟 About Me
+- 📚 Master's student in **Computer Science and Engineering** at TU/e.
+- 🖥️ Founder of **Mindware Software**, software products and solutions.
+- ✨ Passionate about **software development**, **game design and development**, and **Puzzling**.
+- 🥋 When I am not programming, you can find me sporting at **Ki-Aikido**, volunteering at **Scouting**, and playing the **guitar** and **piano**.
 
 <!--
 **MieskeB/MieskeB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
