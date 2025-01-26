@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Michel Bijnen
 
-### 🌟 About Me
+### About Me
 - 📚 Master's student in **Computer Science and Engineering** at TU/e.
 - 🖥️ Founder of **Mindware Software**, software products and solutions.
 - ✨ Passionate about **software development**, **game design and development**, and **Puzzling**.
