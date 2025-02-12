@@ -12,9 +12,9 @@
 - **Tools**: Docker, GitHub Actions, MySQL
 
 ### 💼 Projects
-- 🎮 **The Hunt of the Blood Moon**
-- 🕹️ **Apollo 13**
-- 👨🏻‍💻 **JSON API Object Converter**
+- 🎮 **[The Hunt of the Blood Moon](https://store.steampowered.com/app/1978280/The_Hunt_of_the_Blood_Moon/)**
+- 🕹️ **[Apollo 13](https://github.com/MieskeB/apollo13)**
+- 👨🏻‍💻 **[JSON API Object Converter](https://mvnrepository.com/artifact/nl.michelbijnen.jsonapi/json-api)**
 - 🌐 **[Scouting Mierlo-Hout website](https://www.scoutingmierlohout.nl/)**
 
 ### 📫 Get in touch
