@@ -4,7 +4,7 @@
 - 📚 Master's student in **Computer Science and Engineering** at TU/e.
 - 🖥️ Founder of **Mindware Software**, software products and solutions.
 - ✨ Passionate about **software development**, **game design and development**, and **Puzzling**.
-- 🥋 When I am not programming, you can find me sporting at **Ki-Aikido**, volunteering at **Scouting**, and playing the **guitar** and **piano**.
+- 🥋 When I am not programming, you can find me either sporting at **Ki-Aikido**, volunteering at **Scouting**, or playing the **guitar** or **piano**.
 
 ### 💻 Skills and Expertise
 - **Programming languages**: Java, C#, Python, TypeScript / Javascript, C++
